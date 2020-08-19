@@ -4,5 +4,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/luiz.amboni/)](https://www.instagram.com/luiz.amboni/)
 
+Email: luiz.otavioamboni@gmail.com
+
 - 🔭 I’m currently working on Softplan
 - 🌱 I'm learning to code
