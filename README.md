@@ -1,4 +1,6 @@
-# Luiz Otavio Amboni
+# Luiz Otavio Amboni 
+# 26/11/2000 (19)
+# Florianópolis SC - Brasil
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-otavio-a-892a0a122/)](https://www.linkedin.com/in/luiz-otavio-a-892a0a122/)
 
