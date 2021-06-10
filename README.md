@@ -8,5 +8,4 @@ Florianópolis SC - Brasil
 
 Email: luiz.otavioamboni@gmail.com
 
-- 🔭 I’m currently working on Softplan
-- 🌱 I'm learning to code
+
