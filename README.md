@@ -6,10 +6,10 @@
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/luiz-otavio-a-892a0a122/" target="_blank">
-<img align="center" alt="luiz-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
+<img align="center" alt="luiz-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/ambonii/" target="_blank">
-<img align="center" alt="luiz-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
+<img align="center" alt="luiz-instagram" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" style="max-width:100%;">
 </a>
 
 ## My Skills
