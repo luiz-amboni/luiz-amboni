@@ -2,7 +2,7 @@
 ## I'm Luiz Otavio Amboni
 - I live in :brazil:, south :sunglasses::sunrise:
 - I have been working on Softplan as analyst :computer:
-- I have been learnig more about Python and JS :sparkling_heart:
+- I have been learnig more about React and Machine Learning :sparkling_heart:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/luiz-otavio-a-892a0a122/" target="_blank">
