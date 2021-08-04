@@ -30,9 +30,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="java" width="40" height="40" style="max-width:100%;"></img>
 
-![Amboni's github stats](https://github-readme-stats.vercel.app/api?username=luiz-amboni&show_icons=true&count_private=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-amboni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/luiz-amboni">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=luiz-amboni&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-amboni&&layout=compact&hide=shell&theme=jolly"/>
+</div>
 
 ![Snake animation](https://github.com/luiz-amboni/luiz-amboni/blob/output/github-contribution-grid-snake.svg)
 
