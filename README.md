@@ -9,8 +9,10 @@
 <img align="center" alt="luiz-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/amboniii/" target="_blank">
-  <img align="center" alt="luiz-instagram" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" style="max-width:100%;">
+  <img align="center" alt="luiz-instagram" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" style="max-width:100%;">
 </a>
+
+
 
 
 
