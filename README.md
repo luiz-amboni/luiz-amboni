@@ -9,8 +9,9 @@
 <img align="center" alt="luiz-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/amboniii/" target="_blank">
-<img align="center" alt="luiz-instagram" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" style="max-width:100%;">
+  <img align="center" alt="luiz-instagram" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" style="max-width:100%;">
 </a>
+
 
 ## My Skills
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
