@@ -1,7 +1,6 @@
 ### Hi there 👋
 ## I'm Luiz Otavio Amboni
 - I live in :brazil:, south :sunglasses::sunrise:
-- I have been working on Softplan as analyst :computer:
 - I have been learnig more about Cyber Security :sparkling_heart:
 
 ## Connect with me:
