@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- HEADER ANIMADO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Luiz%20Otávio%20Amboni&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UX/UI%20Designer%20%7C%20Web%20Craftsman%20%7C%20AI%20Specialist&descAlignY=58&descSize=18&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Luiz%20Otávio%20Amboni&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Sistemas%20%7C%20Especialista%20em%20IA%20Aplicada%20%7C%20Soluções%20Digitais&descAlignY=58&descSize=18&descColor=a78bfa"/>
 
-<!-- TYPING ANIMADO -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Luiz+👋;UX%2FUI+Designer+%26+Developer;Web+Craftsman+com+6%2B+anos;Especialista+em+IA+%26+Automação;Transformando+ideias+em+experiências+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+o+Luiz+👋;Desenvolvo+sistemas+do+zero+⚙️;Integro+IA+em+negócios+reais+🤖;Transformo+problemas+em+soluções+🚀;Criciúma%2C+SC+—+atendimento+remoto+🇧🇷)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- BADGES SOCIAIS -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-otavio-a-892a0a122/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amboniii/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://amboni.info/)
@@ -28,19 +25,23 @@
 
 ```typescript
 const luiz = {
-  nome:        "Luiz Otávio Amboni",
-  localização: "Criciúma, Santa Catarina 🇧🇷",
-  foco:        ["UX/UI Design", "Web Development", "AI & Automação"],
-  experiência: "6+ anos criando experiências digitais",
-  projetos:    "50+ entregues com 100% de satisfação",
-  atualmente:  "Explorando Cyber Security 🔐 & IA Generativa 🤖",
-  contato:     "luiz.amboniii@gmail.com",
-  site:        "https://amboni.info",
-  frase:       "Sites que geram resultados 🚀"
+  nome:         "Luiz Otávio Amboni",
+  localização:  "Criciúma, Santa Catarina 🇧🇷",
+  papel:        "Desenvolvedor de Sistemas & Especialista em IA Aplicada",
+  missão:       "Identificar o que uma empresa precisa e construir a solução certa",
+  experiência:  "6+ anos desenvolvendo soluções digitais reais",
+  especialidade: [
+    "Sistemas do zero — do levantamento de requisitos ao deploy",
+    "Integração de IA em processos e produtos de negócio",
+    "Automações que eliminam trabalho manual e geram resultado",
+  ],
+  clientes:     "Pequenas e médias empresas que ainda não aplicam tecnologia",
+  contato:      "luiz.amboniii@gmail.com",
+  site:         "https://amboni.info",
 };
 ```
 
-> 💡 Crio **sites, portfólios e experiências digitais** que combinam **UX/UI estratégico** com **inteligência artificial** — para profissionais e empresas que querem se destacar online.
+> 💡 Entro em uma empresa, **entendo o problema real** e construo a solução — seja um sistema interno, uma automação com IA, uma integração entre plataformas ou um produto digital do zero. Não vendo tecnologia pela tecnologia: vendo **resultado**.
 
 ---
 
@@ -48,13 +49,37 @@ const luiz = {
 
 <div align="center">
 
-| 🌐 Web & Portfólios | 🎨 UX/UI Design | 🤖 IA & Automação |
+| ⚙️ Sistemas do Zero | 🤖 IA Aplicada a Negócios | 🔗 Integrações & Automações |
 |:---:|:---:|:---:|
-| Sites profissionais de alta conversão | Figma · Prototipagem · Design Systems | Agentes de IA · Automações inteligentes |
-| Landing pages que vendem | Pesquisa de usuário estratégica | Integração de IA em produtos digitais |
-| Identidade visual moderna | Interfaces que encantam e convertem | Soluções que economizam tempo e custos |
+| Levantamento de requisitos | Agentes de IA para processos reais | APIs, ERPs e plataformas conectadas |
+| Arquitetura e desenvolvimento | Automação de atendimento e vendas | Webhooks, sincronização de dados |
+| Deploy, manutenção e evolução | IA embarcada em sistemas internos | Eliminação de trabalho manual repetitivo |
+
+| 🌐 Produtos Web | 📊 Diagnóstico Tecnológico |
+|:---:|:---:|
+| Sites, portfólios e landing pages | Analiso o que a empresa usa (ou não usa) |
+| Sistemas de gestão internos | Identifico gargalos e oportunidades |
+| E-commerce e plataformas digitais | Proponho e executo a solução mais adequada |
 
 </div>
+
+---
+
+## 💼 Projetos & Clientes Reais
+
+> A maioria dos sistemas que desenvolvo é privado — construído sob medida para cada cliente.
+
+<div align="center">
+
+| Projeto | Empresa | O que foi construído |
+|:---|:---|:---|
+| 🏥 **Site institucional** | Dra. Laura Folchini | Website médico focado em conversão e agendamento online |
+| 🛒 **B2G — Plataforma de vendas** | Vear | Site público + sistema interno de gestão integrados |
+| 🤖 **CRM com IA** | iSafe TechStore | Sistema completo de relacionamento pós-venda com automações via WhatsApp, e-mail e IA — integrado ao Bling ERP |
+
+</div>
+
+**[→ Ver portfólio completo em amboni.info](https://amboni.info/)**
 
 ---
 
@@ -83,22 +108,24 @@ const luiz = {
 
 </div>
 
-### 🔧 Ferramentas & Design
+### 🔧 Ferramentas & Infraestrutura
 <div align="center">
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
-### 🔐 Estudando Agora
+### 🤖 IA & Automação
 <div align="center">
 
+![Claude](https://img.shields.io/badge/Claude_AI-7C3AED?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Cyber Security](https://img.shields.io/badge/Cyber_Security-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -108,45 +135,21 @@ const luiz = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz-amboni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-lovat-theta-72.vercel.app/api?username=luiz-amboni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-amboni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats-lovat-theta-72.vercel.app/api/top-langs/?username=luiz-amboni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&border_radius=12&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=luiz-amboni&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&border_radius=12)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-jade-iota-44.vercel.app?user=luiz-amboni&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&border_radius=12)](https://github.com/luiz-amboni)
 
 </div>
 
----
-
-## 🌟 Projetos em Destaque
-
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luiz-amboni&repo=front-n2-lgp3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&border_radius=12)](https://github.com/luiz-amboni/front-n2-lgp3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luiz-amboni&repo=Crud-Python-Flask&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&border_radius=12)](https://github.com/luiz-amboni/Crud-Python-Flask)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luiz-amboni&repo=N3-LP3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&border_radius=12)](https://github.com/luiz-amboni/N3-LP3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luiz-amboni&repo=extrator-url-python&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&border_radius=12)](https://github.com/luiz-amboni/extrator-url-python)
-
-</div>
-
----
-
-## 💼 Clientes & Portfólio Real
-
-<div align="center">
-
-| 🏥 Saúde | 🏢 Tech | 🏛️ Arquitetura |
-|:---:|:---:|:---:|
-| **Dra. Laura Folchini** | **TechStart Solutions** | **Costa Arquitetura** |
-| Website médico com foco em conversão e agendamento online | Automações com IA que otimizaram processos empresariais | Portfólio digital que impressiona clientes |
-| [dralaurafolchini.com.br](https://dralaurafolchini.com.br/) | — | — |
-
-**[→ Ver todos os projetos em amboni.info](https://amboni.info/)**
+[![Trophy](https://github-profile-trophy.vercel.app/?username=luiz-amboni&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -172,7 +175,7 @@ const luiz = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn"/>
 
-**✨ "Sites que geram resultados." ✨**
+**✨ "Identifico o problema. Construo a solução." ✨**
 
 *Feito com 💜 por Luiz Amboni — Criciúma/SC, Brasil*
 
