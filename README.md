@@ -143,7 +143,7 @@ const luiz = {
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-jade-iota-44.vercel.app?user=luiz-amboni&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://github.com/luiz-amboni)
+[![GitHub Streak](https://streak-stats.demolab.com?user=luiz-amboni&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://github.com/luiz-amboni)
 
 </div>
 
