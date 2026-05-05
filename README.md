@@ -137,19 +137,13 @@ const luiz = {
 
 <img height="180em" src="https://github-readme-stats-lovat-theta-72.vercel.app/api?username=luiz-amboni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats-lovat-theta-72.vercel.app/api/top-langs/?username=luiz-amboni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&border_radius=12&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-lovat-theta-72.vercel.app/api/top-langs/?username=luiz-amboni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&border_radius=12&langs_count=8&hide=liquid,jupyter%20notebook,plpgsql"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-jade-iota-44.vercel.app?user=luiz-amboni&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&border_radius=12)](https://github.com/luiz-amboni)
-
-</div>
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=luiz-amboni&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats-jade-iota-44.vercel.app?user=luiz-amboni&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://github.com/luiz-amboni)
 
 </div>
 
